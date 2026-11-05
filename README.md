@@ -33,7 +33,3 @@ This repository extends the WebStudio landing page with CSS styling, typography,
 - colors and spacing;
 - browser style normalization;
 - separating content from presentation.
-
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-markup-hw-02/)
